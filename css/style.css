@@ -24,7 +24,7 @@ img{max-width:100%;}
     width: 56px;
     height:56px;
     float: left;
-    background: url("../_img/logo-mobile.png") center center/56px no-repeat;
+    background: url("../img/logo-mobile.png") center center/56px no-repeat;
     font-size: 0;
 }
 .btn-menu{
@@ -77,7 +77,7 @@ img{max-width:100%;}
     float: left;
     padding: 3% 4%;
     text-align: center;
-    background: url("../_img/bg.jpg") no-repeat fixed;
+    background: url("../img/bg.jpg") no-repeat fixed;
 }
 .title{width: 100%;}
 .title h2{
@@ -207,7 +207,7 @@ img{max-width:100%;}
 @media screen and (min-width: 480px){
     .logo{
         width: 214px;
-        background: url("../_img/logo.png") center center/214px no-repeat;
+        background: url("../img/logo.png") center center/214px no-repeat;
     }
 
     .btn{font-size: 2em;}
